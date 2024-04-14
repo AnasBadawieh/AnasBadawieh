@@ -1,7 +1,3 @@
-Got it! Let's focus on highlighting your skills and ambitions in the README file. Here's a revised version:
-
----
-
 # Hi there! 👋
 
 I'm Anas, a backend developer with a passion for building innovative solutions and create universe full of imaginations in the field of computer science.
@@ -32,7 +28,3 @@ I'm Anas, a backend developer with a passion for building innovative solutions a
 ## Let's Collaborate!
 
 I'm always open to collaboration and new opportunities. Whether it's working on projects together or discussing ideas, don't hesitate to reach out!
-
----
-
-Feel free to customize this template with more personal details or additional sections. Let me know if there's anything else you'd like to add or modify!
