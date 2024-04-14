@@ -27,7 +27,7 @@ I'm Anas, a backend developer with a passion for building innovative solutions a
 ## Get in Touch
 
 - 📫 Feel free to reach out to me via email at [a.badawiah@gmail.com](mailto:a.badawiah@gmail.com).
-- 💬 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername).
+- 💬 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/anasbadawieh).
 
 ## Let's Collaborate!
 
