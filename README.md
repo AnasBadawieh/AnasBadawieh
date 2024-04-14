@@ -1,6 +1,8 @@
 # Hi there! 👋
 
 I'm Anas, a backend developer with a passion for building innovative solutions and create universe full of imaginations in the field of computer science.
+  [![HitCount](https://hits.dwyl.com/anasbadawieh/anadbadawieh.svg?style=flat-square)](http://hits.dwyl.com/anasbadawieh/anadbadawieh)
+
 
 ## About Me
 
