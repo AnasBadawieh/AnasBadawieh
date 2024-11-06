@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anas Badawieh
 
-**Software Engineering Student | Full Stack Developer | Problem Solver**
+**Software Engineering Student | Junior Back-End Developer | Problem Solver**
 
 I'm a dedicated software engineering student at Near East University, set to graduate in June 2025. My journey in tech has been shaped by hands-on experiences in development, from building real-time tracking APIs to chat applications using the MERN stack. With a strong foundation in both backend and frontend technologies, I thrive in fast-paced environments, tackling complex problems, and creating impactful solutions.
 
